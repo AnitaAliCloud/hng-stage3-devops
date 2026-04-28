@@ -113,4 +113,4 @@ HNG-nginx-logs volume
 https://github.com/AnitaAliCloud/hng-stage3-devops
 
 ## Blog Post
-[Coming soon]
+https://dev.to/anitaalicloud/how-i-built-an-anomaly-detection-engine-for-ddos-protection-1ibg
