@@ -4,7 +4,7 @@
 - **Metrics Dashboard:** http://anitacloud.duckdns.org:8080
 - **Server IP:** 13.50.99.229
 - **Nextcloud:** http://13.50.99.229
-- **Blog Post:** [link here]
+- **Blog Post:** https://dev.to/anitaalicloud/how-i-built-an-anomaly-detection-engine-for-ddos-protection-1ibg
 - **GitHub:** https://github.com/AnitaAliCloud/hng-stage3-devops
 
 ## Language Choice
@@ -138,6 +138,3 @@ README.md
 
 ## Repository
 https://github.com/AnitaAliCloud/hng-stage3-devops
-
-## Blog Post
-https://dev.to/anitaalicloud/how-i-built-an-anomaly-detection-engine-for-ddos-protection-1ibg
